@@ -1,4 +1,4 @@
-{
+﻿{
   "author": "Johannes Leick",
   "github": "Johannesproximo",
   "url": "https://www.facebook.com/johannes.leick",
@@ -28,6 +28,7 @@
     "thumb": "Blut-3-thumb.png",
     "video-prototyp-url": "http://vimeo.com/1234567",
     "video-url": "http://vimeo.com/1234567",
+    "repo-url": https://github.com/Johannesproximo/Das-Blutende-Plakat",
     "abstract": "Das Blutende Plakat ist ein Plakat welches sich verändert, wenn in der Nähe SMS oder Telefonanrufe getätigt werden. Diese erhöten Strahlenwerte lösen aus, dass das Plakat anfängt zu bluten und dadurch eine ein Pictogramm Ablauf sichtbar wird."
   }
 }
